@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/* common style */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.h1{
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.cmn-bg-clr{
+    background-color: #E76F51;
+}
+
+.cmn-txt-clr{
+    color: #E76F51;
+}
+
+.allbtn{
+    color: white;
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+/* common style end */ 
+.bg{
+    background-color: #264653;
+}
+
+
+.hd{
+    width: 480px;
+    color: white;
+}
+.hp{
+    width: 456px;
+}
