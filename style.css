@@ -24,6 +24,23 @@ body{
     font-size: 1rem;
 }
 
+.scn{
+    margin-top: 160px;
+}
+
+.btn-outline{
+    background-color: white;
+    color: #E76F51;
+    border: 1px solid #E76F51;
+    cursor: pointer;
+}
+
+.btn-outline:hover{
+    background-color: #E76F51;
+    color: white;
+    
+}
+
 /* common style end */ 
 .bg{
     background-color: #264653;
@@ -31,9 +48,34 @@ body{
 
 
 .hd{
-    width: 480px;
+    max-width: 480px;
+    margin: auto;
     color: white;
 }
-.hp{
-    width: 456px;
+
+
+.cic{
+width: 149px;
+height: 149px;
+}
+
+
+.empty{
+    -webkit-text-stroke: 1px #E76F51;
+    -webkit-text-fill-color: transparent;
+}
+
+.cp{
+    color: #23A6F0;
+    font-weight: 600;
+}
+
+.cp2{
+    color: #252B42;
+    font-weight: 600;
+}
+
+
+.bg-f{
+    background-color: #0B0D17;
 }
